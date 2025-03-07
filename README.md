@@ -1,5 +1,5 @@
 # About Me:
-🔭 i'm currently working on software engineer<br>🌱 i'm currently learning Rust and Blockchain<br>💬 Ask me about life<br>⚡️ Fun fact:<br> - Adapt to nature<br> - Nocturnal man<br> - Enjoy doing research on new technologies<br>✉️ Contact me:<br>mochakbar912@gmail.com
+🔭 i'm currently working on software engineer<br>🌱 i'm currently learning Rust<br>💬 Ask me about life<br>⚡️ Fun fact:<br> - Adapt to nature<br> - Nocturnal man<br> - Enjoy doing research on new technologies<br>✉️ Contact me:<br>mochakbar912@gmail.com
 
 
 ## Socials:
