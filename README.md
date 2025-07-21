@@ -1,15 +1,38 @@
-# About Me:
-🔭 i'm currently working on software engineer<br>🌱 i'm currently learning Rust<br>💬 Ask me about life<br>⚡️ Fun fact:<br> - Adapt to nature<br> - Nocturnal man<br> - Enjoy doing research on new technologies<br>✉️ Contact me:<br>mochakbar912@gmail.com
+# 👋 About Me
 
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moch.akbar91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochamad-akbar-b46976157) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12083095/mochamad-akbar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Mochakbar91) 
-
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats-tau-hazel.vercel.app/api?username=Auxulry&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Auxulry&theme=tokyonight&hide_border=false)<br/>
+- 🔭 Currently working as a **Software Engineer**
+- 🌱 Learning **Rust**, exploring low-level performance and safety
+- 💬 Feel free to ask me about **life, dev life, or new tech**
+- ⚡ Fun facts:
+  - I adapt well to nature 🌿
+  - I'm a nocturnal man 🌙
+  - I love researching and tinkering with new technologies 🔬
+- ✉️ Reach me at: **mochakbar912@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Auxulry&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Auxulry&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://wakatime.com/@869b3195-136e-4c82-ab00-e6a64772c418">
+    <img src="https://wakatime.com/badge/user/869b3195-136e-4c82-ab00-e6a64772c418.svg" alt="Wakatime Badge"/>
+  </a>
+</p>
+
+---
+
+## Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/moch.akbar91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochamad-akbar-b46976157)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12083095/mochamad-akbar)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/Mochakbar91)
+
+---
+
+## GitHub Stats
+
+| | |
+|--|--|
+| ![Top Languages](https://github-readme-stats-tau-hazel.vercel.app/api/top-langs/?username=auxulry&layout=compact&langs_count=10&theme=tokyonight) | ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=auxulry&layout=compact&langs_count=10&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats-tau-hazel.vercel.app/api?username=Auxulry&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Auxulry&theme=tokyonight&hide_border=false) |
+
